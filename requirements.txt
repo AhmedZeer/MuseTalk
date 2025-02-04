@@ -20,3 +20,5 @@ gradio
 spaces
 moviepy
 flask
+aiohttp
+aiortc
